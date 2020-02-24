@@ -4,3 +4,4 @@
 - [天龙八部](tianlong.md)
 - [射雕英雄传](shediao.md)
 - [鹿鼎记](luding.md)
+- [笑傲江湖](xiaoao.md)
